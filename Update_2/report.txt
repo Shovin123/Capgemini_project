@@ -1,0 +1,9 @@
+Date:26-05-2025
+
+Done List:
+1) Auth service
+2) API-Gateway
+3) Product service
+4) Order Service
+5) Cart Service
+6) Eureka Server
